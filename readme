@@ -1,0 +1,29 @@
+# CodeTrend Explorer
+
+**CodeTrend Explorer** é um projeto que analisa a evolução da popularidade das linguagens de programação Python, Java e C++ ao longo do tempo. Utilizando dados semanais de popularidade de abril de 2019 a abril de 2024, o projeto explora tendências, padrões sazonais e mudanças de longo prazo na popularidade dessas linguagens.
+
+## Objetivo do Projeto
+
+O objetivo deste projeto é:
+- **Analisar a evolução da popularidade** das linguagens de programação Python, Java e C++ ao longo do período analisado.
+- **Identificar padrões sazonais** e verificar se há variações sazonais nas tendências de popularidade.
+- **Comparar a popularidade** das linguagens em diferentes períodos e estações do ano.
+- **Determinar tendências de longo prazo** para cada linguagem e verificar se há um aumento ou diminuição na sua popularidade.
+
+## Estrutura do Repositório
+
+O repositório contém os seguintes arquivos e diretórios:
+
+- `trend_over_time.csv`: Arquivo CSV contendo os dados de popularidade semanais.
+- `analysis.ipynb` ou `analysis.py`: Notebook Jupyter ou script Python contendo a análise detalhada.
+- `README.md`: Este arquivo com a descrição do projeto e instruções.
+- `.gitignore`: Arquivo que lista os arquivos e diretórios a serem ignorados pelo Git.
+
+## Instruções de Execução
+
+1. **Clonar o Repositório**
+
+   Clone o repositório usando o comando:
+
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
