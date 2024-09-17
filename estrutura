@@ -1,0 +1,8 @@
+/CodeTrend-Explorer
+|-- analysis.ipynb        # Notebook Jupyter com a análise
+|-- trend_over_time.csv   # Arquivo CSV com dados de entrada
+|-- requirements.txt      # Dependências do projeto
+|-- README.md             # Documentação do projeto
+|-- .gitignore            # Arquivo para ignorar arquivos desnecessários
+|-- LICENSE               # Licença do projeto (se aplicável)
+|-- REPORT.md             # Relatório detalhado em Markdown
