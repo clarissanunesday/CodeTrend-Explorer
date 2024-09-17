@@ -1,0 +1,20 @@
+# Ignorar arquivos de dados sensíveis ou temporários
+trend_over_time.csv
+
+# Ignorar arquivos de configuração temporários
+*.pyc
+*.pyo
+__pycache__/
+*.ipynb_checkpoints/
+*.log
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+
+# Ignorar notebooks Jupyter temporários
+*.nbconvert.ipynb
+*.nbs
+
+# Ignorar arquivos de cache
+.cache/
